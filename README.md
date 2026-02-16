@@ -1,7 +1,7 @@
 
-## Running the iOS App (Eccomercce  YouVerify Assement)
+## Running the iOS App ( ECommerce YouVerify Assement)
 
-Follow these steps to run the FinanceApp on your local machine using Xcode.
+Follow these steps to run the ECommerce on your local machine using Xcode.
 
 ### 1. Clone the Repository
 ```bash
