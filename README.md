@@ -1,5 +1,5 @@
 
-## Running the iOS App (FinanceApp)
+## Running the iOS App (Eccomercce  YouVerify Assement)
 
 Follow these steps to run the FinanceApp on your local machine using Xcode.
 
